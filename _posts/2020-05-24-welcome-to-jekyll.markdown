@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to CoderDojo!"
 date:   2020-05-24 10:35:23 +0900
 categories: jekyll update
 ---

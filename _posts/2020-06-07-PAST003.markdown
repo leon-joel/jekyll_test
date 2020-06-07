@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "第3回アルゴリズム実技検定PASTに挑戦しました"
+date:   2020-06-07
+categories: programming
+---
+5/23 13:00 リアルタイムで受験しました。
+
+結果は
+Intermidiate (中級)
+という判定となりました。
